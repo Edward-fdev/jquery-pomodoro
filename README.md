@@ -1,4 +1,4 @@
-# Pomodoro
+# Yvan's Super Pomodoro
 
 Create an app to manage _Pomodoro_ sessions.
 
